@@ -1,4 +1,4 @@
-const Responder = require("./responder.js");
+const Responder = require("./classes/responder.js");
 
 class HeraldaPlugin {
   constructor(client) {
