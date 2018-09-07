@@ -1,6 +1,6 @@
 {
   "name": "heralda-plugin-base",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "The basic plugin class for Heralda. Extending this class, you can create new plugins to user with her.",
   "main": "index.js",
   "scripts": {
